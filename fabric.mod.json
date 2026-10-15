@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "id": "luckbucket",
+  "version": "1.0.0",
+  "name": "Luck Bucket",
+  "description": "Right-click an empty bucket to get a potion of luck (runs /give).",
+  "environment": "client",
+  "entrypoints": { "client": ["com.example.luckbucket.LuckBucketMod"] },
+  "depends": { "fabricloader": ">=0.17.0", "minecraft": "26.1.2", "java": ">=25", "fabric-api": "*" }
+}
