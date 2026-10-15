@@ -1,4 +1,4 @@
-name: Build Luck Bucket Fabric Mod
+name: .github/workflows/build.yml
 
 on:
   push:
